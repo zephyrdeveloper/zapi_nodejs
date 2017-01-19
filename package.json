@@ -1,0 +1,23 @@
+{
+  "name": "zapi_nodejs",
+  "version": "1.0.0",
+  "description": "ZAPI NodeJS Client with jwt generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masudjbd/zapi_nodejs.git"
+  },
+  "author": "Masudur Rahman <masud.java@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masudjbd/zapi_nodejs/issues"
+  },
+  "homepage": "https://github.com/masudjbd/zapi_nodejs#readme",
+  "dependencies": {
+    "atlassian-jwt": "0.1.1",
+    "jshashes": "1.0.6"
+}
+}

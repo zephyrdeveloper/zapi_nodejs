@@ -1,6 +1,6 @@
 {
   "name": "zapi_nodejs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ZAPI NodeJS Client with jwt generator.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:zfjdeveloper/zapi_nodejs.git"
+    "url": "https://bitbucket.org/zfjdeveloper/zapi_nodejs.git"
   },
   "author": "Masudur Rahman <masud.java@gmail.com>",
   "license": "ISC",

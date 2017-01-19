@@ -1,5 +1,8 @@
 ## Usage
 
+### Install with npm
+    npm install zapi_nodejs
+
 ### Include Library
     var Client = require("zapi_nodejs");
  

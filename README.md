@@ -10,8 +10,8 @@
 
     var BASE_URL = '<zfj cloud baseUrl goes here>'
     var ACCESS_KEY = '<your accessKey goes here>'
-    var SECRET_KEY = '<my secretKey goes here>'
-    var USER = '<my userName goes here>'
+    var SECRET_KEY = '<your secretKey goes here>'
+    var USER = '<your userName goes here>'
 
 ### Create Instance
      var JwtClient = new Client(BASE_URL, ACCESS_KEY, SECRET_KEY, USER);

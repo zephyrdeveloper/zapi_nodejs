@@ -1,6 +1,6 @@
 {
   "name": "zapi_nodejs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ZAPI NodeJS Client with jwt generator.",
   "main": "index.js",
   "scripts": {
